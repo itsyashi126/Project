@@ -8,8 +8,8 @@ export default function Projects() {
             description:
                 "A modern and responsive portfolio website showcasing my skills, projects, experience, and freelancing services. Built with React and Tailwind CSS.",
             technologies: ["React", "Tailwind CSS", "JavaScript"],
-            demo: "#",
-            github: "#",
+            demo: "https://portfolio-aco5.onrender.com",
+            github: "https://github.com/itsyashi126/Portfolio.git",
         },
         {
             title: "E-Commerce Website",
